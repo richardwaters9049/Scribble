@@ -16,8 +16,6 @@
   
 <h1 align="center">Scribble Chat Application</h1>
 
-Enter image here
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -25,9 +23,6 @@ Enter image here
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -44,15 +39,6 @@ Enter image here
 ### About The Project
 
 Welcome to Scribble, a simple and efficient chat application powered by Node.js on the server and built with Chat Engine. Scribble provides you with free and easy-to-use NPM components and APIs, making it a breeze to integrate real-time chat functionality into your website or app. Say goodbye to spending days on complex chat system development - with Scribble, you can have a fully functional chat feature up and running in minutes!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-- [![Node][Node.js]][Next-url]
-- [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
