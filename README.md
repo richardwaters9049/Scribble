@@ -15,6 +15,7 @@
 <div align="center">
   
 <h1 align="center">Scribble Chat Application</h1>
+<img width="1407" alt="Screenshot 2023-09-27 at 18 44 56" src="https://github.com/richardwaters9049/Scribble/assets/119029825/bd1a0e26-bcbc-4084-af47-8b0d5eb10455">
 
 </div>
 
@@ -73,4 +74,6 @@ This is an example of how to list things you need to use the software and how to
   cd .. backend
   npm run start
   ```
+  <img width="1364" alt="Screenshot 2023-09-27 at 18 45 10" src="https://github.com/richardwaters9049/Scribble/assets/119029825/c27d93b8-5a08-4943-9a3c-d0e0f4f503c8">
+    
   ### Happy Scribbling! 🖋️
